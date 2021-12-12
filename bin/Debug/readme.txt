@@ -1,0 +1,1 @@
+zlib software copyright © 1995-2017 Jean-loup Gailly and Mark Adler.

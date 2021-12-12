@@ -1,0 +1,3 @@
+SUPPORTED GAMES (upkk_syb.dll<VXBG> header)
+======================================================================
+Syberia 2

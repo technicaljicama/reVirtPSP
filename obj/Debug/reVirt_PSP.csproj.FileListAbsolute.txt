@@ -1,0 +1,10 @@
+D:\ALL.NET\reVirt_PSP\bin\Debug\reVirt_PSP.exe
+D:\ALL.NET\reVirt_PSP\bin\Debug\reVirt_PSP.pdb
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.csprojAssemblyReference.cache
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.Form1.resources
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.Properties.Resources.resources
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.csproj.GenerateResource.cache
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.csproj.CoreCompileInputs.cache
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.exe
+D:\ALL.NET\reVirt_PSP\obj\Debug\reVirt_PSP.pdb
+D:\ALL.NET\reVirt_PSP\bin\Debug\reVirt_PSP.exe.config
